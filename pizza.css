@@ -7,9 +7,9 @@
 body {
   margin: 0;
   padding: 0;
-  background-image: url(./background/spaghetti-gc4f56d42c_1920.jpg);
+  background-image: url(./background/pizza-back.jpg);
   background-repeat: no-repeat;
-  max-width: 100%;
+  background-size: 100% 100%;
 }
 
 nav {
@@ -91,7 +91,6 @@ ul li a:after {
 /* ///////////////////////////////////////////////////////*/
 /* ///////////////////////////////////////////////////////*/
 .dropdown {
-  padding-left: 50px;
   position: relative;
 }
 
@@ -289,6 +288,7 @@ hr {
   width: 300px;
   box-shadow: 10px 10px 15px 10px rgba(253, 214, 160, 0.1);
   margin-left: 20px;
+  margin-top: 30px;
 }
 
 .pizza {
@@ -298,10 +298,11 @@ hr {
 }
 
 h2 {
-  font-family: sans-serif;
+  font-family: "Pacifico", sans-serif;
   font-style: normal;
   font-weight: 500;
   line-height: 20px;
+  color: #c61209;
 }
 
 .size {
