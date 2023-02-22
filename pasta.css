@@ -315,3 +315,7 @@ h2 {
 .price {
   padding-left: 30px;
 }
+.ingredients {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
